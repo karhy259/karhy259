@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=Karhy259&icon=4&color=6)](https://visitcount.itsvg.in)
 # 💫 About Me:
 ¡Hola! Soy Karina, una apasionada programadora junior con un trasfondo único en el mundo del desarrollo y la gestión de productos. Mi viaje en la tecnología comenzó con un rol desafiante como Product Owner, donde adquirí una perspectiva valiosa sobre cómo crear soluciones que realmente resuelvan problemas.<br><br>Mi curiosidad y amor por el desarrollo me llevaron a dar un paso adelante y explorar el emocionante mundo de la programación front-end. Con experiencia en tecnologías como Angular y React, he encontrado una forma de combinar mi creatividad con mi habilidad para crear experiencias digitales atractivas y funcionales.<br><br>Soy una firme creyente en el aprendizaje continuo y en la mejora constante. Cada línea de código que escribo es una oportunidad para crecer y perfeccionar mis habilidades. Me encanta enfrentar desafíos y encontrar soluciones elegantes para problemas complejos.<br><br>Siempre estoy abierta a nuevas oportunidades y colaboraciones emocionantes.<br><br><br>Hello! I'm Karina, a passionate junior programmer with a unique background in the realm of development and product management. My journey in technology began with a challenging role as a Product Owner, where I gained valuable insights into crafting solutions that truly address issues.<br><br>My curiosity and love for coding led me to take a leap forward and delve into the exciting realm of front-end programming. With hands-on experience in technologies like Angular and React, I've discovered a way to merge my creativity with the ability to craft engaging and functional digital experiences.<br><br>I firmly believe in continuous learning and constant improvement. Every line of code I write is an opportunity to grow and refine my skills. I relish tackling challenges and devising elegant solutions for intricate problems.<br><br>I'm always open to new opportunities and thrilling collaborations.
 
@@ -19,6 +20,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Karhy259&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Karhy259&icon=4&color=6)](https://visitcount.itsvg.in)
+
 
 Proudly created with GPRM ( https://gprm.itsvg.in ) -->
